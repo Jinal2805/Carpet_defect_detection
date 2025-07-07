@@ -40,11 +40,8 @@ This project implements a patch-based visual anomaly detection system using the 
 
 | Metric        | Value     |
 |---------------|-----------|
-| Accuracy      | 95.58%    |
+| Accuracy      | 95.78%    |
 | AUC-ROC       | 0.97      |
-| Mean IoU      | > 0.85    |
-| Mean Dice     | > 0.90    |
-
 ---
 
 ## 🔧 Tech Stack
